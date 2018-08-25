@@ -11,7 +11,8 @@
 # Ignore sensitive information
 /web/sites/*/settings.local.php
 
-# Ignore Drupal's file directory
+# Ignore Drupal's public and private file directories
+/private
 /web/sites/*/files/
 
 # Ignore SimpleTest multi-site environment.
