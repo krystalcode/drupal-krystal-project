@@ -16,14 +16,6 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
-        "krystal-profile": {
-            "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal8-krystal-profile"
-        },
-        "krystal-commerce-profile": {
-            "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal8-krystal-commerce-profile"
-        },
         "d3": {
             "type": "package",
             "package": {
@@ -47,6 +39,14 @@
                     "type": "zip"
                 }
             }
+        },
+        "krystal-commerce-profile": {
+            "type": "vcs",
+            "url": "https://github.com/krystalcode/drupal8-krystal-commerce-profile"
+        },
+        "krystal-profile": {
+            "type": "vcs",
+            "url": "https://github.com/krystalcode/drupal8-krystal-profile"
         }
     },
     "require": {
