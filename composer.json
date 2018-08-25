@@ -1,6 +1,7 @@
 {
     "name": "krystalcode/drupal8-krystal-project",
     "description": "The Krystal project template for Drupal 8 projects with composer",
+    "homepage": "https://github.com/krystalcode/drupal8-krystal-project",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
