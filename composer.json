@@ -11,13 +11,36 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "name": "drupal",
+    "repositories": {
+        "drupal": {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        "d3": {
+            "type": "package",
+            "package": {
+                "name": "d3/d3",
+                "version": "v3.5.17",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/d3/d3/archive/v3.5.17.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        "highlightjs": {
+            "type": "package",
+            "package": {
+                "name": "components/highlightjs",
+                "version": "9.7.0",
+                "type": "drupal-library",
+                "dist": {
+                    "url": "https://github.com/components/highlightjs/archive/9.7.0.zip",
+                    "type": "zip"
+                }
+            }
         }
-    ],
+    },
     "require": {
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
@@ -29,6 +52,8 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
+        "components/highlightjs": "9.7.*",
+        "d3/d3": "3.5.*",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
         "drupal/console": "^1.0.2",
         "drupal/coder": "^2.12",
