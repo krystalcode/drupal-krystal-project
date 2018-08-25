@@ -16,6 +16,10 @@
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
+        "krystal-profile": {
+            "type": "vcs",
+            "url": "https://github.com/krystalcode/drupal8-krystal-profile"
+        },
         "d3": {
             "type": "package",
             "package": {
@@ -47,6 +51,7 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/core": "~8.5.3",
         "drush/drush": "^9.0.0",
+        "krystalcode/drupal8-krystal-profile": "dev-8.x-1.x",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3"
