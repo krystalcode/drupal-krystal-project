@@ -61,9 +61,11 @@
         "components/highlightjs": "9.7.*",
         "d3/d3": "3.5.*",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.4.4",
+        "drupal/coder": "^8.2.12",
         "drupal/console": "^1.0.2",
         "drupal/devel": "^1.2",
-        "webflo/drupal-core-require-dev": "~8.5.3"
+        "phpunit/phpunit": "^4.8.35 || ^6.5",
+        "phpspec/prophecy": "^1.4"
     },
     "conflict": {
         "drupal/drupal": "*"
