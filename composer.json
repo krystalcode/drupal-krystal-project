@@ -55,6 +55,7 @@
         "drupal-composer/drupal-scaffold": "^2.5",
         "drupal/core": "~8.5.3",
         "drush/drush": "^9.0.0",
+        "harvesthq/chosen": "^1.8",
         "krystalcode/drupal8-krystal-commerce-profile": "dev-8.x-1.x",
         "krystalcode/drupal8-krystal-profile": "dev-8.x-1.x",
         "vlucas/phpdotenv": "^2.4",
