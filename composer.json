@@ -87,7 +87,7 @@
         "drupal/console": "^1.0.2",
         "drupal/devel": "^2.0",
         "phpunit/phpunit": "^6.5",
-        "phpspec/prophecy": "^1.4"
+        "phpspec/prophecy": "^1.4",
         "webflo/drupal-core-require-dev": "^8.7.0"
     },
     "conflict": {
