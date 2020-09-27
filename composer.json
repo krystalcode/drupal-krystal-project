@@ -57,11 +57,11 @@
         },
         "krystal-commerce-profile": {
             "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal8-krystal-commerce-profile"
+            "url": "https://github.com/krystalcode/drupal-krystal-commerce-profile"
         },
         "krystal-profile": {
             "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal8-krystal-profile"
+            "url": "https://github.com/krystalcode/drupal-krystal-profile"
         }
     },
     "require": {
