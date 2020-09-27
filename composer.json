@@ -65,7 +65,7 @@
         }
     },
     "require": {
-        "php": ">=7.0.8",
+        "php": ">=7.3",
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
         "drupal/core": "^8.8.0",
