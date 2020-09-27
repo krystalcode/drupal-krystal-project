@@ -93,7 +93,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
-    "bin-dir": "bin",
+        "bin-dir": "bin",
         "sort-packages": true
     },
     "autoload": {
