@@ -24,10 +24,6 @@
                 }
             }
         },
-        "drupal": {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        },
         "d3": {
             "type": "package",
             "package": {
@@ -39,6 +35,10 @@
                     "type": "zip"
                 }
             }
+        },
+        "drupal": {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
         },
         "highlightjs": {
             "type": "package",
