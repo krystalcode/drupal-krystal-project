@@ -60,10 +60,6 @@
             "type": "vcs",
             "url": "https://github.com/krystalcode/drupal-krystal-profile"
         },
-        "commerce-price-rule": {
-            "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal8-commerce-price-rule"
-        },
         "filecache": {
             "type": "vcs",
             "url": "https://github.com/krystalcode/drupal-filecache-fork"
