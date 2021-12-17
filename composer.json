@@ -59,10 +59,6 @@
         "krystal-profile": {
             "type": "vcs",
             "url": "https://github.com/krystalcode/drupal-krystal-profile"
-        },
-        "filecache": {
-            "type": "vcs",
-            "url": "https://github.com/krystalcode/drupal-filecache-fork"
         }
     },
     "require": {
